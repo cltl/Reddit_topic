@@ -1,2 +1,3 @@
 # Cross-topic and cross-lingual analysis of toxicity in Reddit conversation 
-Toxicity analysis of Reddit conversation across topics and languages
+This repo contains code and data for the paper - The Constant in HATE: Analyzing Toxicity in Reddit across Topics
+and Languages
